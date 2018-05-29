@@ -2,7 +2,7 @@
 # https://drive.google.com/open?id=1bY4ir-3K_xj5YO9mmGYK7z7FGGO9vLit
 
 ![learning curve](Train_and_Test_Accuracy.png) ![learning curve](Train_and_Test_Loss.png)
-![Screenshot](Screenshot_20180415-183839.png)
+![Screenshot](screenshots/Screenshot_20180415-183839.png)
 ![Screenshot](screenshots/Screenshot_20180415-183825.png) ![Screenshot](screenshots/Screenshot_20180415-183845.png) 
 
 ####  To solve any real-life problem, we need to understand the depth of problem first. One such problem is the assessment of patients suffering from mental disorder, so that we can diagnose them. Often, these patients are inaccurate or reluctant in expressing themselves due to several mental and social boundaries they surround themselves in. This tends to worsen up the patients in phycological aspect. These patients are not verbal about their situation, so we need to apply sophisticated techniques for a non-verbal assessment of patient’s pain.

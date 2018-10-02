@@ -5,7 +5,7 @@
 ![Screenshot](screenshots/Screenshot_20180415-183839.png)
 ![Screenshot](screenshots/Screenshot_20180415-183825.png) ![Screenshot](screenshots/Screenshot_20180415-183845.png) 
 
-####  To solve any real-life problem, we need to understand the depth of problem first. One such problem is the assessment of patients suffering from mental disorder, so that we can diagnose them. Often, these patients are inaccurate or reluctant in expressing themselves due to several mental and social boundaries they surround themselves in. This tends to worsen up the patients in phycological aspect. These patients are not verbal about their situation, so we need to apply sophisticated techniques for a non-verbal assessment of patient’s pain.
+####  To solve any real-life problem, we need to understand the depth of the problem first. One such problem is the assessment of patients suffering from mental disorder, so that we can diagnose them. Often, these patients are inaccurate or reluctant in expressing themselves due to several mental and social boundaries they surround themselves in. This tends to worsen up the patients in phycological aspect. These patients are not verbal about their situation, so we need to apply sophisticated techniques for a non-verbal assessment of patient’s pain.
 
  #### In the healthcare setting, performing an accurate assessment of patient’s pain level is an imperfect science. Certain traditional pain assessment methods rely significantly on a patient’s description of his or her pain level which may be confusing or inaccurate. While non-verbal pain assessments tools are available inherent bias, reliability and sensitivity are some of the challenges encountered regardless of the tool.
 
